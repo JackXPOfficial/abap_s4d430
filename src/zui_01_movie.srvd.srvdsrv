@@ -1,0 +1,4 @@
+@EndUserText.label: 'Movie'
+define service ZUI_01_MOVIE {
+  expose Z01_C_MOVIE;
+}
